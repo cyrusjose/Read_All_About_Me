@@ -10,7 +10,7 @@ import "./App.css";
 function App() {
   return (
     <Router>
-      <div>
+      <div className="container-fluid">
         <Header />
         <Route exact path="/" component={About} />
         <Route exact path="/contact" component={Contact} />
