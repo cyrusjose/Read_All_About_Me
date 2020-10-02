@@ -4,7 +4,7 @@ import "./Header.css"
 export default function Header() {
   return (
     <div className="header">
-      <h1>hello</h1>
+      <h1>Sincerely, Cyrus</h1>
       <Nav />
     </div>
   );
