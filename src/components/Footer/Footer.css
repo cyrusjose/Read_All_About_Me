@@ -1,6 +1,7 @@
-.container{
+footer{
     background-color: black;
     padding: 20px;
     justify-content: center;
     text-align: center;
+    width: 100%;
 }
