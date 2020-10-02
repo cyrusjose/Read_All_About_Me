@@ -5,7 +5,7 @@ export default function Nav() {
   const location = useLocation();
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-dark">
+    <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <button
         className="navbar-toggler collapsed"
         type="button"
@@ -17,7 +17,7 @@ export default function Nav() {
       >
         <span className="navbar-toggler-icon"></span>
       </button>
-      <div className="navbar-collapse collapse" id="navbarNav">
+      <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav ml-auto">
           <li className="nav-item">
             <Link
