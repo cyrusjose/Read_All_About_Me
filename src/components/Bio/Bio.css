@@ -5,13 +5,12 @@
 }
 
 .mainBio {
-  /* display: inline; */
   padding: 7rem;
   justify-content: center;
 }
 
 .description {
-  margin-top: 30px;
+  margin-top: 50px;
 }
 
 .fade-in1 {

@@ -14,9 +14,7 @@ export default function Bio() {
           repudiandae? Porro totam sed iste?
         </p>
       </div>
-      <div className="carouselContainer">
-        <Carousel />
-      </div>
+      <Carousel />
     </div>
   );
 }
