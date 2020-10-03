@@ -16,7 +16,7 @@ export default function Carousel() {
   return (
     
       <div
-        className="carousel slide fade-in2"
+        className="carousel slide"
         data-ride="carousel"
       >
         <div className="carousel-inner">
