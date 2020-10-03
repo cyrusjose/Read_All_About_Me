@@ -1,5 +1,6 @@
 import React from "react";
 import Projects from "../components/Projects/Projects";
+import "./Portfolio.css"
 
 export default function Portfolio() {
   return (

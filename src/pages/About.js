@@ -1,10 +1,11 @@
-import React from 'react'
-
+import React from "react";
+import Bio from "../components/Bio/Bio";
+import "./About.css";
 export default function About() {
-    return (
-        <div>
-            <h1>About Me</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque iure, adipisci laborum sunt explicabo nam facilis cumque! Minima laboriosam praesentium iure ullam. Dolor magnam nostrum rem cupiditate aliquid. Veniam, aperiam?</p>
-        </div>
-    )
+  return (
+    <div className="container">
+      {/* <h1>About Me</h1> */}
+      <Bio />
+    </div>
+  );
 }
