@@ -3,6 +3,12 @@
   text-align: center;
 }
 
+.container-fluid {
+  background-color: #00adb5;
+  height: 100%
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
