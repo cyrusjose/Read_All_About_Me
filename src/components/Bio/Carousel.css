@@ -1,0 +1,23 @@
+.carousel-inner {
+  /* border: 2px solid black; */
+  border-radius: 30px;
+}
+.carousel {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  box-shadow: 0 0 40px 10px black;
+  border-radius: 40px;
+}
+
+@media only screen and (max-width: 600px) {
+  .carousel,
+  .carousel-inner {
+    display: none;
+  }
+}
+@media only screen and (max-width: 1000px) {
+  .carousel,
+  .carousel-inner {
+    width: 700px;
+  }
+}
