@@ -8,7 +8,7 @@ export default function Bio() {
   return (
     <div className="container -fluid mainBio row">
       <Fade>
-        <img src={profile} alt="profile" className="profilePic fade-in1" />
+        <img src={profile} alt="profile" className="profilePic fade-in" />
       </Fade>
       <div className="description">
         <Fade>
@@ -20,7 +20,6 @@ export default function Bio() {
             Actuarial Science from
             <Link to="//www.csusb.edu/">
               <span> California State University of San Bernardino. </span>
-              
             </Link>
             <br />
             <br /> Currently, I am working for McGraw Hill ALEKS as a Math
@@ -39,7 +38,8 @@ export default function Bio() {
             <br />
             Let's head over to the
             <Link to="/contact"> contact page </Link>
-            so that you can tell me more about yourself! I also love to travel so take a peek at some pictures I took while traveling below!
+            so that you can tell me more about yourself! I also love to travel
+            so take a peek at some pictures I took while traveling below!
           </p>
         </Fade>
       </div>
