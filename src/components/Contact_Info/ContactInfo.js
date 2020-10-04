@@ -5,7 +5,7 @@ export default function ContactInfo() {
   return (
     <div className="container">
         <div className="row justify-content-center mt-5 p-5">
-            <div className="card shadow p-3 mb-5 bg-white rounded">
+            <div className="p-3 contactCard">
                 <div className="card-body">
                     <h4 className="card-title mb-4">It would be a pleasure to know you!</h4>
                     <hr />
