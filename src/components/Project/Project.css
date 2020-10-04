@@ -1,0 +1,11 @@
+.proj1 {
+  border: 2px solid black;
+  width: 500px;
+  height: 500px;
+  background-image: url("https://images.pexels.com/photos/3016320/pexels-photo-3016320.jpeg?cs=srgb&dl=pexels-fotografierende-3016320.jpg&fm=jpg");
+  background-size: cover;
+  opacity: 0.7;
+}
+.proj1:hover {
+  opacity: 1;
+}
