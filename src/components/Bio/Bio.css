@@ -1,8 +1,8 @@
 .profilePic {
-  height: 15rem;
-  border-radius: 200px;
+  height: 25rem;
+  border-radius: 500px;
   box-shadow: 0px 0px 20px 15px #393e46;
-  margin: 100px;
+  margin-top: 150px;
 }
 
 .mainBio {
@@ -16,6 +16,7 @@
   border-radius: 50px;
   box-shadow: 0px 0px 20px 15px #393e46;
   padding: 45px;
+  font-size: x-large;
 }
 
 .fade-in {

@@ -3,7 +3,7 @@ import "./Contactinfo.css";
 
 export default function ContactInfo() {
   return (
-    <div className="container">
+    <div className="container fade-in">
         <div className="row justify-content-center mt-5 p-5">
             <div className="p-3 contactCard">
                 <div className="card-body">
