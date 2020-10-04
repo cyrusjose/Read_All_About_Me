@@ -1,6 +1,6 @@
 import React from "react";
 import Project from "../components/Project/Projects";
-import "./Portfolio.css"
+import "./Portfolio.css";
 
 export default function Portfolio() {
   return (
@@ -12,9 +12,8 @@ export default function Portfolio() {
         saepe cupiditate nihil velit, eos eligendi aperiam sequi non labore
         placeat.
       </p>
-      <Project>
-
-      </Project>
+      <Project/>
+      
     </div>
   );
 }

@@ -1,11 +1,11 @@
 import React from "react";
+
 import "./Project.css";
 
-export default function Projects() {
+export default function Projects(props) {
   return (
     <div>
-      <h2>Project X</h2>
-      <p>Hello</p>
+        
     </div>
   );
 }
