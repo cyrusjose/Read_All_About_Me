@@ -1,5 +1,5 @@
 import React from "react";
-import Projects from "../components/Projects/Projects";
+import Project from "../components/Project/Projects";
 import "./Portfolio.css"
 
 export default function Portfolio() {
@@ -12,12 +12,9 @@ export default function Portfolio() {
         saepe cupiditate nihil velit, eos eligendi aperiam sequi non labore
         placeat.
       </p>
-      <Projects />
-      <Projects />
-      <Projects />
-      <Projects />
-      <Projects />
-      <Projects />
+      <Project>
+
+      </Project>
     </div>
   );
 }
