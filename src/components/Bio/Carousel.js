@@ -19,6 +19,7 @@ export default function Carousel() {
         className="carousel slide"
         data-ride="carousel"
       >
+        <h2>Pictures I took while traveling</h2>
         <div className="carousel-inner">
           <div className="carousel-item active" data-interval="5000">
             <img src={image1} className="d-block w=100" alt="" />
