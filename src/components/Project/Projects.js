@@ -51,6 +51,94 @@ export default function Projects() {
           </div>
         </Fade>
         <Fade>
+          <div className="row row-cols-1 row-cols-md-2 my-5">
+            <div className="col mb-4 p-5">
+              <div className=" portCard ">
+                <a
+                  className="topCard"
+                  href="https://find-an-employee.netlify.app/"
+                  target="_blank"
+                >
+                  <img
+                    src="https://images.pexels.com/photos/2102416/pexels-photo-2102416.jpeg?cs=srgb&dl=pexels-djordje-petrovic-2102416.jpg&fm=jpg"
+                    className=" pexelImage img-fluid"
+                    alt="Board Game Image from Pexel"
+                  />
+                  <div className="card-img-overlay row align-items-end justify-content-center">
+                    <h3 className="card-title">
+                      <strong>Employee Directory</strong>
+                    </h3>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div className="col mb-4 p-5">
+              <div className=" portCard ">
+                <a
+                  className="topCard"
+                  href="https://onabudget.herokuapp.com/"
+                  target="_blank"
+                >
+                  <img
+                    src="https://images.pexels.com/photos/2674062/pexels-photo-2674062.jpeg?cs=srgb&dl=pexels-stijn-dijkstra-2674062.jpg&fm=jpg"
+                    className=" pexelImage img-fluid"
+                    alt="Question Mark"
+                  />
+                  <div className="card-img-overlay row align-items-end justify-content-center">
+                    <h3 className="card-title">
+                      <strong>Cautious Traveler</strong>
+                    </h3>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </Fade>
+        <Fade>
+          <div className="row row-cols-1 row-cols-md-2 my-5">
+            <div className="col mb-4 p-5">
+              <div className=" portCard ">
+                <a
+                  className="topCard"
+                  href="https://workoutandfitness.herokuapp.com/"
+                  target="_blank"
+                >
+                  <img
+                    src="https://images.pexels.com/photos/4327012/pexels-photo-4327012.jpeg?cs=srgb&dl=pexels-cottonbro-4327012.jpg&fm=jpg"
+                    className=" pexelImage img-fluid"
+                    alt="Cars and Phone Image"
+                  />
+                  <div className="card-img-overlay row align-items-end justify-content-center">
+                    <h3 className="card-title">
+                      <strong>Get Fit!</strong>
+                    </h3>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div className="col mb-4 p-5">
+              <div className=" portCard ">
+                <a
+                  className="topCard"
+                  href="https://shrouded-caverns-52942.herokuapp.com/"
+                  target="_blank"
+                >
+                  <img
+                    src="https://images.pexels.com/photos/4769496/pexels-photo-4769496.jpeg?cs=srgb&dl=pexels-cottonbro-4769496.jpg&fm=jpg"
+                    className=" pexelImage img-fluid"
+                    alt="Cars and Phone Image"
+                  />
+                  <div className="card-img-overlay row align-items-end justify-content-center">
+                    <h3 className="card-title">
+                      <strong>Take Note!</strong>
+                    </h3>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </Fade>
+        <Fade>
           <div className="row row-cols-1 row-cols-md-2 my-5 ">
             <div className="col mb-4 p-5">
               <div className=" portCard ">
@@ -93,74 +181,6 @@ export default function Projects() {
               </div>
             </div>
           </div>{" "}
-        </Fade>
-        <Fade>
-          <div className="row row-cols-1 row-cols-md-2 my-5">
-            <div className="col mb-4 p-5">
-              <div className=" portCard ">
-                <a
-                  className="topCard"
-                  href="../assets/Simple-Apps/RPS/rps.html"
-                  target="_blank"
-                >
-                  <img
-                    src="https://images.pexels.com/photos/133372/pexels-photo-133372.jpeg?cs=srgb&dl=balance-balancing-boulder-close-up-133372.jpg&fm=jpg"
-                    className=" pexelImage img-fluid"
-                    alt="Board Game Image from Pexel"
-                  />
-                  <div className="card-img-overlay row align-items-end justify-content-center">
-                    <h3 className="card-title">
-                      <strong>RPS Game</strong>
-                    </h3>
-                  </div>
-                </a>
-              </div>
-            </div>
-            <div className="col mb-4 p-5">
-              <div className=" portCard ">
-                <a
-                  className="topCard"
-                  href="../assets/Simple-Apps/Questions/question.html"
-                  target="_blank"
-                >
-                  <img
-                    src="https://images.pexels.com/photos/3683107/pexels-photo-3683107.jpeg?cs=srgb&dl=question-mark-on-yellow-background-3683107.jpg&fm=jpg"
-                    className=" pexelImage img-fluid"
-                    alt="Question Mark"
-                  />
-                  <div className="card-img-overlay row align-items-end justify-content-center">
-                    <h3 className="card-title">
-                      <strong>Questions Game</strong>
-                    </h3>
-                  </div>
-                </a>
-              </div>
-            </div>
-          </div>
-        </Fade>
-        <Fade>
-          <div className="row row-cols-1 row-cols-md-2 my-5">
-            <div className="col mb-4 p-5">
-              <div className=" portCard ">
-                <a
-                  className="topCard"
-                  href="../assets/Simple-Apps/Car/carGame.html"
-                  target="_blank"
-                >
-                  <img
-                    src="https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg?cs=srgb&dl=forced-perspective-photography-of-cars-running-on-road-below-799443.jpg&fm=jpg"
-                    className=" pexelImage img-fluid"
-                    alt="Cars and Phone Image"
-                  />
-                  <div className="card-img-overlay row align-items-end justify-content-center">
-                    <h3 className="card-title">
-                      <strong>Around The World</strong>
-                    </h3>
-                  </div>
-                </a>
-              </div>
-            </div>
-          </div>
         </Fade>
       </div>
     </div>
