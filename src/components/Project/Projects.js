@@ -5,13 +5,13 @@ import React from "react";
 import "./Project.css";
 import { Link } from "react-router-dom";
 
-export default function Projects(props) {
+export default function Projects() {
   return (
     <div>
       <div className="container mt-5">
         <div className="row row-cols-1 row-cols-md-2">
-          <div className="col mb-4 p-5">
-            <div className="card portCard ">
+          <div className="col mb-4 p-5 maincard">
+            <div className="card portCard">
                 <Link className = "topCard" to = "/groupprojects">
                 <img
                   src="https://images.pexels.com/photos/3626622/pexels-photo-3626622.jpeg?cs=srgb&dl=group-of-people-in-a-meeting-3626622.jpg&fm=jpg"

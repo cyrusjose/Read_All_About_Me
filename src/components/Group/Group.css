@@ -1,8 +1,3 @@
-.pexelImage,
-.portCard {
-    border-radius: 30px;
-}
-
 .topCard {
     opacity: 0.5;
     box-shadow: 0 0 50px 5px gray;
