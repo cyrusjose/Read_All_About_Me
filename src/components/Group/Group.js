@@ -9,7 +9,7 @@ export default function Group() {
       <div className="container mt-5">
         <div className="row row-cols-1 row-cols-md-2">
           <div className="col mb-4 p-5">
-            <div className="card portCard ">
+            <div className=" portCard ">
               <a
                 className="topCard"
                 href="https://cyrusjose.github.io/Spontaneous-Weekend/"
@@ -17,11 +17,11 @@ export default function Group() {
               >
                 <img
                   src="https://images.pexels.com/photos/712395/pexels-photo-712395.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-                  className="card-img-top pexelImage img-fluid"
+                  className=" pexelImage img-fluid"
                   alt="Board Game Image from Pexel"
                 />
                 <div className="card-img-overlay row align-items-end justify-content-center">
-                  <h1 className="card-title">
+                  <h1 className="groupCard card-title">
                     <strong>Spontaneous Weekend</strong>
                   </h1>
                 </div>
@@ -29,7 +29,7 @@ export default function Group() {
             </div>
           </div>
           <div className="col mb-4 p-5">
-            <div className="card portCard ">
+            <div className=" portCard ">
               <a
                 className="topCard"
                 href="https://github.com/cyrusjose/Spontaneous-Weekend"
@@ -37,11 +37,11 @@ export default function Group() {
               >
                 <img
                   src="https://images.pexels.com/photos/712395/pexels-photo-712395.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-                  className="card-img-top pexelImage img-fluid"
+                  className=" pexelImage img-fluid"
                   alt="Board Game Image from Pexel"
                 />
                 <div className="card-img-overlay row align-items-end justify-content-center">
-                  <h1 className="card-title">
+                  <h1 className="groupCard card-title">
                     <strong>Spontaneous Weekend (github)</strong>
                   </h1>
                 </div>
@@ -51,7 +51,7 @@ export default function Group() {
         </div>
         <div className="row row-cols-1 row-cols-md-2">
           <div className="col mb-4 p-5">
-            <div className="card portCard ">
+            <div className=" portCard ">
               <a
                 className="topCard"
                 href="https://secure-savannah-12538.herokuapp.com/signup.html"
@@ -59,11 +59,11 @@ export default function Group() {
               >
                 <img
                   src="https://images.pexels.com/photos/712395/pexels-photo-712395.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-                  className="card-img-top pexelImage img-fluid"
+                  className=" pexelImage img-fluid"
                   alt="Board Game Image from Pexel"
                 />
                 <div className="card-img-overlay row align-items-end justify-content-center">
-                  <h1 className="card-title">
+                  <h1 className="groupCard card-title">
                     <strong>Spontaneous Weekend 2.0</strong>
                   </h1>
                 </div>
@@ -71,7 +71,7 @@ export default function Group() {
             </div>
           </div>
           <div className="col mb-4 p-5">
-            <div className="card portCard ">
+            <div className=" portCard ">
               <a
                 className="topCard"
                 href="https://github.com/melindawinter/Spontaneous-Weekend"
@@ -79,11 +79,11 @@ export default function Group() {
               >
                 <img
                   src="https://images.pexels.com/photos/712395/pexels-photo-712395.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-                  className="card-img-top pexelImage img-fluid"
+                  className=" pexelImage img-fluid"
                   alt="Board Game Image from Pexel"
                 />
                 <div className="card-img-overlay row align-items-end justify-content-center">
-                  <h1 className="card-title">
+                  <h1 className="groupCard card-title">
                     <strong>Spontaneous Weekend 2.0 (github)</strong>
                   </h1>
                 </div>
