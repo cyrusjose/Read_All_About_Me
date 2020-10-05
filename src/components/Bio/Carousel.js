@@ -20,37 +20,37 @@ export default function Carousel() {
         data-ride="carousel"
       >
         <div className="carousel-inner">
-          <div className="carousel-item active" data-interval="5000">
+          <div className="carousel-item active" data-interval="4000">
             <img src={image1} className="d-block w=100" alt="" />
           </div>
-          <div className="carousel-item" data-interval="5000">
+          <div className="carousel-item" data-interval="4000">
             <img src={image2} className="d-block w=100" alt="" />
           </div>
-          <div className="carousel-item" data-interval="5000">
+          <div className="carousel-item" data-interval="4000">
             <img src={image3} className="d-block w=100" alt="" />
           </div>
-          <div className="carousel-item" data-interval="5000">
+          <div className="carousel-item" data-interval="4000">
             <img src={image4} className="d-block w=100" alt="" />
           </div>
-          <div className="carousel-item" data-interval="5000">
+          <div className="carousel-item" data-interval="4000">
             <img src={image5} className="d-block w=100" alt="" />
           </div>
-          <div className="carousel-item" data-interval="5000">
+          <div className="carousel-item" data-interval="4000">
             <img src={image6} className="d-block w=100" alt="" />
           </div>
-          <div className="carousel-item" data-interval="5000">
+          <div className="carousel-item" data-interval="4000">
             <img src={image7} className="d-block w=100" alt="" />
           </div>
-          <div className="carousel-item" data-interval="5000">
+          <div className="carousel-item" data-interval="4000">
             <img src={image8} className="d-block w=100" alt="" />
           </div>
-          <div className="carousel-item" data-interval="5000">
+          <div className="carousel-item" data-interval="4000">
             <img src={image9} className="d-block w=100" alt="" />
           </div>
-          <div className="carousel-item" data-interval="5000">
+          <div className="carousel-item" data-interval="4000">
             <img src={image10} className="d-block w=100" alt="" />
           </div>
-          <div className="carousel-item" data-interval="5000">
+          <div className="carousel-item" data-interval="4000">
             <img src={image11} className="d-block w=100" alt="" />
           </div>
         </div>

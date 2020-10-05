@@ -6,6 +6,7 @@
 .pnp.js
 .env
 /src/components/Bio/Images
+/src/components/Contact_Info/resume
 # testing
 /coverage
 
