@@ -4,7 +4,9 @@
 
 A fully functioning website that lets you know more about me and what I've done during my time at UCR's coding bootcamp!
 
+### Deployed Site
 
+- https://read-all-about-me.netlify.app/
 
 ## License
 
@@ -28,7 +30,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-
 
 ## Questions
 
