@@ -11,7 +11,7 @@ export default function Projects() {
     <div>
       <div className="container mt-5 mb-5 pb-5">
         <Fade>
-          <div className="row row-cols-1 row-cols-md-2 my-5">
+          <div className="row row-cols-1 row-cols-md-2 my-5 fade-in">
             <div className="col mb-4 p-5">
               <div className="portCard">
                 <Link className="topCard" to="/groupprojects">
@@ -21,7 +21,7 @@ export default function Projects() {
                     alt="Group Image From Pexel"
                   />
                   <div className="card-img-overlay row align-items-end justify-content-center">
-                    <h3 className="card-title">
+                    <h3 className="card-title projectCard">
                       <strong>Group Projects</strong>
                     </h3>
                   </div>
@@ -41,7 +41,7 @@ export default function Projects() {
                     alt="Computer Image From Pexel"
                   />
                   <div className="card-img-overlay row align-items-end justify-content-center">
-                    <h3 className="card-title">
+                    <h3 className="card-title projectCard">
                       <strong>Hamburgers!</strong>
                     </h3>
                   </div>
@@ -51,7 +51,7 @@ export default function Projects() {
           </div>
         </Fade>
         <Fade>
-          <div className="row row-cols-1 row-cols-md-2 my-5">
+          <div className="row row-cols-1 row-cols-md-2 my-5 fade-in">
             <div className="col mb-4 p-5">
               <div className=" portCard ">
                 <a
@@ -65,7 +65,7 @@ export default function Projects() {
                     alt="Board Game Image from Pexel"
                   />
                   <div className="card-img-overlay row align-items-end justify-content-center">
-                    <h3 className="card-title">
+                    <h3 className="card-title projectCard">
                       <strong>Employee Directory</strong>
                     </h3>
                   </div>
@@ -85,7 +85,7 @@ export default function Projects() {
                     alt="Question Mark"
                   />
                   <div className="card-img-overlay row align-items-end justify-content-center">
-                    <h3 className="card-title">
+                    <h3 className="card-title projectCard">
                       <strong>Cautious Traveler</strong>
                     </h3>
                   </div>
@@ -95,7 +95,7 @@ export default function Projects() {
           </div>
         </Fade>
         <Fade>
-          <div className="row row-cols-1 row-cols-md-2 my-5">
+          <div className="row row-cols-1 row-cols-md-2 my-5 fade-in">
             <div className="col mb-4 p-5">
               <div className=" portCard ">
                 <a
@@ -109,7 +109,7 @@ export default function Projects() {
                     alt="Cars and Phone Image"
                   />
                   <div className="card-img-overlay row align-items-end justify-content-center">
-                    <h3 className="card-title">
+                    <h3 className="card-title projectCard">
                       <strong>Get Fit!</strong>
                     </h3>
                   </div>
@@ -129,7 +129,7 @@ export default function Projects() {
                     alt="Cars and Phone Image"
                   />
                   <div className="card-img-overlay row align-items-end justify-content-center">
-                    <h3 className="card-title">
+                    <h3 className="card-title projectCard">
                       <strong>Take Note!</strong>
                     </h3>
                   </div>
@@ -139,7 +139,7 @@ export default function Projects() {
           </div>
         </Fade>
         <Fade>
-          <div className="row row-cols-1 row-cols-md-2 my-5 ">
+          <div className="row row-cols-1 row-cols-md-2 my-5 fade-in">
             <div className="col mb-4 p-5">
               <div className=" portCard ">
                 <a
@@ -153,7 +153,7 @@ export default function Projects() {
                     alt="Computer Image From Pexel"
                   />
                   <div className="card-img-overlay row align-items-end justify-content-center">
-                    <h3 className="card-title">
+                    <h3 className="card-title projectCard">
                       <strong>Code Quiz</strong>
                     </h3>
                   </div>
@@ -173,7 +173,7 @@ export default function Projects() {
                     alt="Clouds Image From Pexel"
                   />
                   <div className="card-img-overlay row align-items-end justify-content-center">
-                    <h3 className="card-title">
+                    <h3 className="card-title projectCard">
                       <strong>Weather App</strong>
                     </h3>
                   </div>

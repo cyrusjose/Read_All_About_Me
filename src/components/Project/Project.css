@@ -18,12 +18,12 @@
 .pexelImage{
     border: 2px solid black;
     border-radius: 40px;
-    box-shadow: 0 0 50px 5px gray;
+    box-shadow: 0 0 50px 20px black;
 }
 
 
 
-.card-title {
+.projectCard {
     padding-bottom: 300px;
     font-size: x-large;
 }

@@ -6,9 +6,9 @@ import Fade from "../Fade/Fade";
 export default function Group() {
   return (
     <div>
-      <div className="container mt-5">
+      <div className="container mt-5 mb-5 pb-5">
         <Fade>
-          <div className="row row-cols-1 row-cols-md-2 my-5">
+          <div className="row row-cols-1 row-cols-md-2 my-5 fade-in">
             <div className="col mb-4 p-5">
               <div className=" portCard ">
                 <a
@@ -22,7 +22,7 @@ export default function Group() {
                     alt="Board Game Image from Pexel"
                   />
                   <div className="card-img-overlay row align-items-end justify-content-center">
-                    <h1 className="groupCard card-title">
+                    <h1 className="projectCard card-title">
                       <strong>Spontaneous Weekend</strong>
                     </h1>
                   </div>
@@ -42,7 +42,7 @@ export default function Group() {
                     alt="Board Game Image from Pexel"
                   />
                   <div className="card-img-overlay row align-items-end justify-content-center">
-                    <h1 className="groupCard card-title">
+                    <h1 className="projectCard card-title">
                       <strong>Spontaneous Weekend (github)</strong>
                     </h1>
                   </div>
@@ -52,7 +52,7 @@ export default function Group() {
           </div>
         </Fade>
         <Fade>
-          <div className="row row-cols-1 row-cols-md-2 my-5">
+          <div className="row row-cols-1 row-cols-md-2 my-5 fade-in">
             <div className="col mb-4 p-5">
               <div className=" portCard ">
                 <a
@@ -66,7 +66,7 @@ export default function Group() {
                     alt="Board Game Image from Pexel"
                   />
                   <div className="card-img-overlay row align-items-end justify-content-center">
-                    <h1 className="groupCard card-title">
+                    <h1 className="projectCard card-title">
                       <strong>Spontaneous Weekend 2.0</strong>
                     </h1>
                   </div>
@@ -86,7 +86,7 @@ export default function Group() {
                     alt="Board Game Image from Pexel"
                   />
                   <div className="card-img-overlay row align-items-end justify-content-center">
-                    <h1 className="groupCard card-title">
+                    <h1 className="projectCard card-title">
                       <strong>Spontaneous Weekend 2.0 (github)</strong>
                     </h1>
                   </div>
