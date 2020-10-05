@@ -16,7 +16,7 @@ export default function Footer() {
 
         <a href={PDF} target="_blank">
           <span className="text-muted px-5">
-            <i class="fas fa-book"></i>
+            <i className="fas fa-book"></i>
           </span>
         </a>
 
