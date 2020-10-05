@@ -5,6 +5,8 @@ import Footer from "./components/Footer/Footer";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
+import Group from "./components/Group/Group";
+
 import "./App.css";
 
 function App() {
@@ -15,6 +17,7 @@ function App() {
         <Route exact path="/" component={About} />
         <Route exact path="/contact" component={Contact} />
         <Route exact path="/portfolio" component={Portfolio} />
+        <Route exact path="/groupprojects" component={Group} />
         <Footer />
       </div>
     </Router>
